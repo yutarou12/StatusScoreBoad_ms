@@ -11,7 +11,7 @@ MoneySystem版です（EconomyAPI用は[こちら](https://github.com/yutarou12/
 
 EasyScoreboardAPIの[ダウンロード](https://github.com/Saisana299/EasyScoreboardAPI/releases/tag/v1.2.1)
 
-StatusScoreBoard_ms の[ダウンロード](https://github.com/yutarou12/ScoreStatusBoard/releases)
+StatusScoreBoard_ms の[ダウンロード](https://github.com/yutarou12/StatusScoreBoad_ms/releases)
 ## Author
 プラグイン制作者 yutarou1241477
 
