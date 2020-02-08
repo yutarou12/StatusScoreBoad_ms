@@ -45,6 +45,7 @@ class scoreTask extends Task{
 					$dire = "南";
 					break;
 			}
+			
 			$api = EasyScoreboardAPI::getInstance();
 			$api->sendScoreBoard($player, "sidebar", "§lユーザーステータス§r", false);
 			$api->setScore($player, "sidebar", "§a名前 §f: {$name}", 0 , 0);
