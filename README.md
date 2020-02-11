@@ -4,6 +4,7 @@ StatusScoreBoard MoneySystem版
 ## Description
 
 EasyScoreboardAPIを使ったステータスプラグインです。
+
 MoneySystem版です（EconomyAPI用は[こちら](https://github.com/yutarou12/StatusScoreBoard/releases)）
 
 ## Download
